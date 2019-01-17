@@ -1,0 +1,130 @@
+.fondoLogin{
+    background-color: darkgray;
+}
+.card{
+    margin-top: 10%;
+  
+}
+.spaceLiNav{
+    padding-left: 10%;
+}
+/* navbar lateral */
+.nav-pills{
+    background-color: #626b70;
+    height: 100%;
+    padding-bottom: 20%;
+    padding-top: 15%;
+}
+li.nav-item a{
+    color: white !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+li.nav-item a:hover{
+    background-color: #98a5ad!important;
+    border-style: none !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+li.nav-item a.active{
+    color: #626b70 !important;
+    background-color: white !important;
+    border-style: none !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+li.nav-item{
+    width: 100%;
+    margin-top: 5%;
+}
+.defaultLateral{
+    height: 100%;
+}
+.lateralHome{
+    padding-bottom: 200%;
+}
+
+/* navbar orizontal */
+.navbar{
+    background-color: #626b70;
+}
+.dropdown-menu{
+    background-color: #626b70;
+}
+.dropdown-menu a:hover{
+    background-color: #626b70 !important;
+}
+a.navbar-brand{
+    color: white !important;
+}
+/* fin nav */
+
+.content{
+    padding-top: 5%;
+    background-color: white;
+}
+.marginTitulo{
+    margin-top: 5%;
+    padding-bottom: 10%;
+}
+.botones{
+    background-color: #626b70;
+    color: white;
+}
+.botones:hover{
+    background-color: #98a5ad;
+    color: white;
+}
+.btnEdit{
+    background-color: #acf0a9;
+    color: white;
+}
+.btnEdit:hover{
+    background-color: #2fe527;
+    color: white;
+}
+.btnAdd{
+    background-color: paleturquoise;
+    color: white;
+}
+.btnAdd:hover{
+    background-color: royalblue;
+    color: white;
+}
+.btnBorrar{
+    background-color: #f0a9a9;
+    color: white;
+}
+.btnBorrar:hover{
+    background-color: #960d0d;
+    color: white;
+}
+.table-hover .trhover:hover{
+    background-color: #626b70 !important;
+    color: white !important;
+}
+.table-hover .trhover .cur:hover{
+    background-color: #626b70 !important;
+    color: black !important;
+}
+.cursos{
+    /* background-color: paleturquoise;
+    border-radius: 5%; */
+    /* height: 2%; */
+}
+.labelMargin{
+    padding-right: 3%;
+}
+.fondo{
+    background-image: url("../images/fondo_laravel.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-left: 20%;
+}
+.content{
+    background-color: white;
+}
